@@ -2,9 +2,7 @@
 
 This project provides a Gradio-based web application that allows users to interact with an SQLite database using natural language queries. It leverages the LangChain library and OpenAI's language model to convert plain English questions into SQL queries and execute them on the provided database.
 
-Try the app: https://sabagul-text-to-sql.hf.space/
-
-![Alt text](tts.png)
+![Alt text](tts.jpeg)
 
 
 ## Features
@@ -20,7 +18,7 @@ To set up and run this application locally, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Saba-Gul/Text-to-SQL.git
+git clone https://github.com/Rahilsamnani27/AI-Powered-SQL-Query-Chatbot.git
 cd text-to-sql
 ```
 
